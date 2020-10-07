@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pile()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Pile\n
+comment1.params=
+comment1.target=java.util.Stack\ getPile()
+comment1.text=\n\ Returns\ the\ pile\n\ @return\ pile\n
+comment2.params=num
+comment2.target=void\ setFaceUpCards(int)
+comment2.text=\n\ Sets\ the\ number\ of\ face\ up\ cards\n\ @param\ num\ number\ to\ set\ it\ to\n
+comment3.params=num
+comment3.target=void\ setFaceDownCards(int)
+comment3.text=\n\ Sets\ the\ number\ of\ face\ down\ cards\n\ @param\ num\ the\ number\ of\ face\ down\ cards\n
+comment4.params=
+comment4.target=int\ getFaceUpCards()
+comment4.text=\n\ @return\ number\ of\ face\ up\ cards\n
+comment5.params=
+comment5.target=int\ getFaceDownCards()
+comment5.text=\n\ @return\ number\ of\ face\ down\ cards\n
+numComments=6
